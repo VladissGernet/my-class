@@ -16,4 +16,3 @@ const initViewController = (container, additionalFunction) => {
 };
 
 export {initViewController};
-
