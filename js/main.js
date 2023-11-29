@@ -1,1 +1,3 @@
-alert('hello');
+import { initThemeChange } from './theme-changer.js';
+
+initThemeChange();
