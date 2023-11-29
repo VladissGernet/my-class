@@ -1,5 +1,5 @@
-import { initThemeChange } from './theme-changer.js';
+import { initThemeChanging } from './theme-changer.js';
 import { initCardViewButtons } from './card-view-buttons.js';
 
-initThemeChange();
+initThemeChanging();
 initCardViewButtons();
