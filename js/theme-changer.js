@@ -1,5 +1,4 @@
-const themeContainer = document.querySelector('.theme-list');
-const rootElement = document.documentElement;
+import {themeContainer, rootElement} from './page-selectors.js';
 
 const initThemeChange = () => {
   const onThemeButtonClick = (evt) => {
