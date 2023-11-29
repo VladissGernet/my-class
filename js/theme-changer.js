@@ -14,7 +14,6 @@ const initThemeChange = () => {
       }
     }
   };
-
   themeContainer.addEventListener('click', onThemeButtonClick);
 };
 
